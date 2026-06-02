@@ -35,6 +35,22 @@
 
 ![Boxplot](../visuals/01.boxpolt.PNG)
 
+## 2. Mean Anaemia Prevalence by Pregnancy Status
+
+![Mean Bar Chart](../visuals/02.Mean_bar_chart.PNG)
+
+## 3. Anaemia Prevalence Across Regions
+
+![Regional Bar Chart](../visuals/03.prevalance_across_region_barchart..PNG)
+
+## 4. Regional Trends in Anaemia Prevalence Over Time
+
+![Trend Across Regions](../visuals/04.Trend_across_region_chart.PNG)
+
+## 5. Africa vs Europe Trend
+
+![Africa vs Europe](../visuals/05.Africa_vs_europe_line.PNG)
+
 
 
 This boxplot compares the distribution of anaemia prevalence between pregnancy status groups. Pregnant women generally exhibit higher prevalence rates than non-pregnant women.
