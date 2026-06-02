@@ -30,7 +30,10 @@
 * The findings highlight the continued public health burden of anaemia, particularly in regions with consistently high prevalence rates.
 
 #Visualisations.
+## 1. Anaemia Prevalence by Pregnancy Status (Boxplot)
 
+![Anaemia Prevalence by Pregnancy Status](../visuals/01.boxpolt.PNG)
+This boxplot compares the distribution of anaemia prevalence between pregnancy status groups.
 ## Conclusion
 
 This analysis revealed significant differences in anaemia prevalence among women aged 15–49 years by pregnancy status and region.
