@@ -33,7 +33,8 @@
 ## 1. Anaemia Prevalence by Pregnancy Status (Boxplot)
 ## Anaemia Prevalence by Pregnancy Status (Boxplot)
 
-![Boxplot](visuals/01.boxpolt.PNG)
+![Boxplot](../visuals/01.boxpolt.PNG)
+
 
 
 This boxplot compares the distribution of anaemia prevalence between pregnancy status groups. Pregnant women generally exhibit higher prevalence rates than non-pregnant women.
