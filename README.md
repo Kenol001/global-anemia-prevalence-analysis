@@ -1,4 +1,4 @@
-# global-anemia-prevalence-analysis.
+# Global-anemia-prevalence-analysis.
 Analysis of global anaemia prevalence among women of reproductive age using WHO public health datasets in R. This project includes data cleaning, exploratory data analysis, statistical testing, and visualization of anaemia trends across pregnancy status, regions, and years.
 
 Objectives
@@ -21,9 +21,12 @@ A small preview of the cleaned dataset is included here. <img width="1388" heigh
 Tools Used
 
 R
+
 Tidyverse
-ggplot2  
-dplyr
+
+Ggplot2  
+
+Dplyr
 
 Analysis Performed
 
@@ -58,7 +61,9 @@ Folder Structure
 - [b_codes](./b_codes/) – Contains R scripts used for data cleaning, analysis, statistical testing, and visualization.
   
 How to Run
-This project is implemented in R using standalone code snippets for data processing, analysis, and visualization. Each snippet is self-contained and should be executed as written in R or RStudio.
+This project is implemented in R using standalone code snippets for data processing, analysis, and visualization. Each snippet is self-contained and should be executed as written in  RStudio. Download and install R and R studio desktop in your pc before running the project.
+
+Note: This project was developed using R and RStudio. Users who are new to R are encouraged to follow online installation tutorials if they need additional guidance during setup.
 
 1. 📥 Clone the repository
 git clone https://github.com/Kenol001/global-anemia-prevalence-analysis.
