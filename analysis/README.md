@@ -30,30 +30,37 @@
 * The findings highlight the continued public health burden of anaemia, particularly in regions with consistently high prevalence rates.
 
 #Visualisations.
-## 1. Anaemia Prevalence by Pregnancy Status (Boxplot)
+
+## Anaemia Prevalence Across WHO Regions (Bar Chart)
+
+![Prevalence Across Regions Bar Chart](../visuals/01.prevalance_across_region_barchart.PNG)
+
+### Interpretation
+
+Anaemia prevalence varied substantially across WHO regions and pregnancy status groups. Africa consistently recorded the highest prevalence levels, with pregnant women experiencing the greatest burden (approximately 45%). South-East Asia also exhibited high prevalence levels, while Europe and the Americas reported the lowest prevalence across all groups. In every region, pregnant women had higher average anaemia prevalence than non-pregnant women, highlighting pregnancy as an important risk factor for anaemia.
+
+
+
+## Trend of Anaemia Prevalence Across Regions (Line Chart)
+
+![Trend Across Regions](../visuals/02.Trend_across_region_chart.PNG)
+
+### Interpretation
+
+Anaemia prevalence generally declined across all WHO regions between 2000 and approximately 2012–2015, indicating improvements in maternal and women's health outcomes. However, after this period, progress slowed and prevalence levels stabilized or increased slightly in several regions. Africa remained the region with the highest prevalence throughout the study period, while Europe maintained the lowest prevalence. Despite overall improvements, substantial regional disparities persisted over time.
+
+
 ## Anaemia Prevalence by Pregnancy Status (Boxplot)
 
-![Boxplot](../visuals/01.boxpolt.PNG)
+![Boxplot](../visuals/03.boxpolt.PNG)
 
-This boxplot compares the distribution of anaemia prevalence between pregnancy status groups. Pregnant women generally exhibit higher prevalence rates than non-pregnant women.
-
-## 2. Mean Anaemia Prevalence by Pregnancy Status
-
-![Mean Bar Chart](../visuals/02.Mean_bar_chart.PNG)
-
-## 3. Anaemia Prevalence Across Regions
-
-![Regional Bar Chart](../visuals/03.prevalance_across_region_barchart..PNG)
-
-## 4. Regional Trends in Anaemia Prevalence Over Time
-
-![Trend Across Regions](../visuals/04.Trend_across_region_chart.PNG)
+### Interpretation
 
 The boxplot demonstrates clear differences in anaemia prevalence by pregnancy status. Pregnant women exhibited higher median anaemia prevalence and a wider distribution of values compared with non-pregnant women, indicating both a greater burden and greater variability in prevalence across countries. Several high-value outliers were observed in both groups, suggesting that some countries experience exceptionally high anaemia prevalence. These findings support the ANOVA results, which confirmed statistically significant differences in anaemia prevalence between pregnancy status groups.
 
-ANOVA Results (Place Directly Below the Boxplot)
+### ANOVA Results
 
-A one-way ANOVA revealed a statistically significant difference in anaemia prevalence across pregnancy status groups, F(2, 13,932) = 316.3, p < .001. Post-hoc Tukey tests indicated that pregnant women had significantly higher anaemia prevalence than non-pregnant women and women of reproductive age.
+A one-way ANOVA revealed a statistically significant difference in anaemia prevalence across pregnancy status groups, *F*(2, 13,932) = 316.3, *p* < .001. Post-hoc Tukey tests indicated that pregnant women had significantly higher anaemia prevalence than non-pregnant women and women of reproductive age.
 
 
 ## Conclusion
