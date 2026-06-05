@@ -47,16 +47,16 @@ Africa had higher prevalence than Europe.
 
 Some regions showed declining trends over time.
 
-Visualizations
-
-
-
 Folder Structure
 
-a.data - has a snippet of data used for analysis and a link to data source.
+## Project Structure
 
-b.docs - has the r scripts, results and description.
-
+- [a_data](./a_data/) – Contains data previews, column definitions, and dataset documentation.
+  
+- [analysis](./analysis/) – Contains visualizations and detailed interpretations of the analysis findings.
+  
+- [b_codes](./b_codes/) – Contains R scripts used for data cleaning, analysis, statistical testing, and visualization.
+  
 How to Run
 This project is implemented in R using standalone code snippets for data processing, analysis, and visualization. Each snippet is self-contained and should be executed as written in R or RStudio.
 
