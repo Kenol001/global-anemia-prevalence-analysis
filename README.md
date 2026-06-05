@@ -5,7 +5,9 @@ Objectives
 
 
 Compare anaemia prevalence between pregnant and non-pregnant women.
+
 Analyze regional differences.
+
 Examine trends across years.
 
 Dataset
@@ -19,9 +21,9 @@ A small preview of the cleaned dataset is included here. <img width="1388" heigh
 Tools Used
 
 R
-tidyverse,
-ggplot2 and 
-dplyr.
+Tidyverse
+ggplot2  
+dplyr
 
 Analysis Performed
 
@@ -33,12 +35,16 @@ Trend analysis.
 
 Visualization.
 Anemia prevalence across different regions.
+
 <img width="872" height="587" alt="08 prevalance_across_region_barchart" src="https://github.com/user-attachments/assets/9efdb1c5-3334-4c5c-b74a-3ed42303713a" />
+
 Key Findings.
 
 
 Pregnant women showed higher anaemia prevalence.
+
 Africa had higher prevalence than Europe.
+
 Some regions showed declining trends over time.
 
 Visualizations
