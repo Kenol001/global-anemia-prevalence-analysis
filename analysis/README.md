@@ -35,6 +35,8 @@
 
 ![Boxplot](../visuals/01.boxpolt.PNG)
 
+This boxplot compares the distribution of anaemia prevalence between pregnancy status groups. Pregnant women generally exhibit higher prevalence rates than non-pregnant women.
+
 ## 2. Mean Anaemia Prevalence by Pregnancy Status
 
 ![Mean Bar Chart](../visuals/02.Mean_bar_chart.PNG)
@@ -47,14 +49,13 @@
 
 ![Trend Across Regions](../visuals/04.Trend_across_region_chart.PNG)
 
-## 5. Africa vs Europe Trend
+The boxplot demonstrates clear differences in anaemia prevalence by pregnancy status. Pregnant women exhibited higher median anaemia prevalence and a wider distribution of values compared with non-pregnant women, indicating both a greater burden and greater variability in prevalence across countries. Several high-value outliers were observed in both groups, suggesting that some countries experience exceptionally high anaemia prevalence. These findings support the ANOVA results, which confirmed statistically significant differences in anaemia prevalence between pregnancy status groups.
 
-![Africa vs Europe](../visuals/05.Africa_vs_europe_line.PNG)
+ANOVA Results (Place Directly Below the Boxplot)
+
+A one-way ANOVA revealed a statistically significant difference in anaemia prevalence across pregnancy status groups, F(2, 13,932) = 316.3, p < .001. Post-hoc Tukey tests indicated that pregnant women had significantly higher anaemia prevalence than non-pregnant women and women of reproductive age.
 
 
-
-This boxplot compares the distribution of anaemia prevalence between pregnancy status groups. Pregnant women generally exhibit higher prevalence rates than non-pregnant women.
-                        
 ## Conclusion
 
 This analysis revealed significant differences in anaemia prevalence among women aged 15–49 years by pregnancy status and region.
