@@ -1,0 +1,1 @@
+colSums(is.na(Nutrition))
