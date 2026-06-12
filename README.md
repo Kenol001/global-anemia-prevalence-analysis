@@ -56,9 +56,13 @@ Folder Structure
 
 - [a_data](./a_data/) – Contains data previews, column definitions, and dataset documentation.
   
-- [analysis](./analysis/) – Contains visualizations and detailed interpretations of the analysis findings.
-  
-- [b_codes](./b_codes/) – Contains R scripts used for data cleaning, analysis, statistical testing, and visualization.
+- [b_code](./b_code/) – Contains R scripts used for data cleaning, analysis, statistical testing, and visualization.
+
+- [c_visuals](./c_visuals/) - Charts, graphs, and visual outputs from the data.
+
+- [d_analysis](./d_analysis/) - Written interpretation, reports, and key findings from the project.
+ 
+    
   
 How to Run
 This project is implemented in R using standalone code snippets for data processing, analysis, and visualization. Each snippet is self-contained and should be executed as written in  RStudio. Download and install R and R studio desktop in your pc before running the project.
