@@ -17,18 +17,6 @@
 
 - ANOVA and Tukey HSD tests.
 
-## Key Findings
-
-* Anaemia prevalence differed significantly between pregnancy status groups, with pregnant women generally exhibiting higher prevalence rates than non-pregnant women.
-
-* Anaemia prevalence varied considerably across world regions, indicating substantial geographical differences in disease burden.
-
-* Africa recorded some of the highest anaemia prevalence levels, while Europe generally showed lower prevalence rates.
-
-* Mean anaemia prevalence differed across regions, suggesting that regional factors may influence the distribution of anaemia among women aged 15–49 years.
-
-* The findings highlight the continued public health burden of anaemia, particularly in regions with consistently high prevalence rates.
-
 #Visualisations.
 
 ## Anaemia Prevalence Across WHO Regions (Bar Chart)
@@ -62,12 +50,34 @@ The boxplot demonstrates clear differences in anaemia prevalence by pregnancy st
 
 A one-way ANOVA revealed a statistically significant difference in anaemia prevalence across pregnancy status groups, *F*(2, 13,932) = 316.3, *p* < .001. Post-hoc Tukey tests indicated that pregnant women had significantly higher anaemia prevalence than non-pregnant women and women of reproductive age.
 
+## Key Findings
+
+* Anaemia prevalence differed significantly between pregnancy status groups, with pregnant women generally exhibiting higher prevalence rates than non-pregnant women.
+
+* Anaemia prevalence varied considerably across world regions, indicating substantial geographical differences in disease burden.
+
+* Africa recorded some of the highest anaemia prevalence levels, while Europe generally showed lower prevalence rates.
+
+* Mean anaemia prevalence differed across regions, suggesting that regional factors may influence the distribution of anaemia among women aged 15–49 years.
+
+* The findings highlight the continued public health burden of anaemia, particularly in regions with consistently high prevalence rates.
+
+  ## Limitations
+
+- The analysis was based on aggregated WHO data rather than individual-level records, limiting the ability to assess personal risk factors for anaemia.
+
+- Regional averages may conceal important differences between countries within the same region.
+
+- The study relied on secondary data, and any inaccuracies or inconsistencies in the original data sources could affect the results.
+
+- The analysis focused primarily on pregnancy status and geographic region and did not account for other factors that may influence anaemia prevalence, such as age, socioeconomic status, dietary practices, or access to healthcare.
+
+- Although significant differences were identified through ANOVA and Tukey HSD tests, the analysis does not establish causal relationships between region, pregnancy status, and anaemia prevalence.
 
 ## Conclusion
 
-This analysis revealed significant differences in anaemia prevalence among women aged 15–49 years by pregnancy status and region.
-Pregnant women generally experienced higher prevalence rates than non-pregnant women, highlighting the increased nutritional demands associated with pregnancy. 
-Anaemia prevalence also varied considerably across regions, with African regions exhibiting higher prevalence levels compared to Europe.
+This analysis revealed significant differences in anaemia prevalence among women aged 15–49 years by pregnancy status and region. Pregnant women generally experienced higher prevalence rates than non-pregnant women, highlighting the increased nutritional demands associated with pregnancy.
 
-The regional disparities observed may reflect differences in socioeconomic development, access to healthcare, nutritional status, disease burden, and public health interventions.
-Overall, the findings underscore the continued importance of targeted strategies to reduce anaemia, particularly among pregnant women and populations in high-burden regions.
+Anaemia prevalence also varied considerably across regions, with Africa exhibiting higher prevalence levels than Europe. These regional disparities may reflect differences in socioeconomic conditions, access to healthcare, nutritional status, disease burden, and the effectiveness of public health interventions.
+
+Overall, the findings underscore the persistent public health burden of anaemia and the importance of targeted interventions to reduce its prevalence, particularly among pregnant women and populations in high-burden regions. Continued efforts to improve nutrition, maternal health services, and anaemia prevention programs are essential to addressing these disparities.
